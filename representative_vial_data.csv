@@ -1,0 +1,32 @@
+Sample,Timepoint,Oxygen,Time_hr,Temperature,Phyto_Species,Particle_Type,Replicate,Treatment
+SK5,2,240.4,2,15.482,Skeletonema,Aggregate,1,Skeletonema_Aggregate
+SK5,4,238.9,4,15.434,Skeletonema,Aggregate,1,Skeletonema_Aggregate
+SK5,22,236.9,22,15.507,Skeletonema,Aggregate,1,Skeletonema_Aggregate
+SK5,24,231,24,15.551,Skeletonema,Aggregate,1,Skeletonema_Aggregate
+SK5,26,229.8,26,15.419,Skeletonema,Aggregate,1,Skeletonema_Aggregate
+SK5,48,226.5,48,15.603,Skeletonema,Aggregate,1,Skeletonema_Aggregate
+FP1,0,235.551,0,NA,Skeletonema,Faecal pellets,3,Skeletonema_Faecal pellets
+FP1,2,230.047,2,NA,Skeletonema,Faecal pellets,3,Skeletonema_Faecal pellets
+FP1,4,229.307,4,NA,Skeletonema,Faecal pellets,3,Skeletonema_Faecal pellets
+FP1,22,219.108,22,NA,Skeletonema,Faecal pellets,3,Skeletonema_Faecal pellets
+FP1,24,218.007,24,NA,Skeletonema,Faecal pellets,3,Skeletonema_Faecal pellets
+FP1,26,213.665,26,NA,Skeletonema,Faecal pellets,3,Skeletonema_Faecal pellets
+FP1,28,216.759,28,NA,Skeletonema,Faecal pellets,3,Skeletonema_Faecal pellets
+FP1,44,194.084,44,NA,Skeletonema,Faecal pellets,3,Skeletonema_Faecal pellets
+FP1,48,195.215,48,NA,Skeletonema,Faecal pellets,3,Skeletonema_Faecal pellets
+FP1,2,236.5,2,11.618,G. hux,Faecal pellets,1,G. hux_Faecal pellets
+FP1,20,226.6,20,15.716,G. hux,Faecal pellets,1,G. hux_Faecal pellets
+FP1,22,228.5,22,12.476,G. hux,Faecal pellets,1,G. hux_Faecal pellets
+FP1,24,222.7,24,15.604,G. hux,Faecal pellets,1,G. hux_Faecal pellets
+FP1,26,218.5,26,15.618,G. hux,Faecal pellets,1,G. hux_Faecal pellets
+FP1,42,216.5,42,15.646,G. hux,Faecal pellets,1,G. hux_Faecal pellets
+FP1,44,217,44,15.377,G. hux,Faecal pellets,1,G. hux_Faecal pellets
+FP1,46,214,46,15.551,G. hux,Faecal pellets,1,G. hux_Faecal pellets
+FP1,48,214.6,48,15.49,G. hux,Faecal pellets,1,G. hux_Faecal pellets
+Gh2,2,178.2,2,10.775,G. hux,Aggregate,1,G. hux_Aggregate
+Gh2,4,182.8,4,10.46,G. hux,Aggregate,1,G. hux_Aggregate
+Gh2,24,174.9,24,9.077,G. hux,Aggregate,1,G. hux_Aggregate
+Gh2,26,175.5,26,10.74,G. hux,Aggregate,1,G. hux_Aggregate
+Gh2,28,167.2,28,11.423,G. hux,Aggregate,1,G. hux_Aggregate
+Gh2,30,169.7,30,10.358,G. hux,Aggregate,1,G. hux_Aggregate
+Gh2,48,150.5,48,9.824,G. hux,Aggregate,1,G. hux_Aggregate
